@@ -64,5 +64,7 @@ int main()
     int r = POP(&s,&k);
     printf("\nThe data present in the stack after deleltion is: ");
     display(s);
+    printf("\n");
+    
     return 0;
 }
